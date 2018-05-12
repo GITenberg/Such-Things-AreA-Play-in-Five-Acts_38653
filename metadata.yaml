@@ -1,0 +1,28 @@
+_repo: Such-Things-AreA-Play-in-Five-Acts_38653
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+description: ''
+gutenberg_issued: '2012-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+title: 'Such Things Are: A Play, in Five Acts'
+url: http://www.gutenberg.org/ebooks/38653
